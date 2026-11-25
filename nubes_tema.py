@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""Nubes Rclone con los colores y la letra del escritorio.
+"""Lázaro Nubes con los colores y la letra del escritorio.
 
 Tkinter no lee el tema del escritorio: por eso la ventana se veía igual
 (gris) en todos. Este módulo le pregunta a GTK 3 qué colores, letra y
